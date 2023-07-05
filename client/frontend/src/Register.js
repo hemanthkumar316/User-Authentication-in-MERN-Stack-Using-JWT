@@ -42,7 +42,7 @@ const Register = () => {
   <div className='form-group'>
 <input type='text' className='form-control border border-2 border-dark'placeholder='Enter confirm password'name='confirmpassword' value={register.confirmpassword} onChange={changeHandler}/> 
   </div>
-  <button className='btn btn-primary btn-lg'>Regsiter</button>
+  <button className='btn btn-primary btn-lg'>Register</button>
 </form>
 </div>
 </div>
